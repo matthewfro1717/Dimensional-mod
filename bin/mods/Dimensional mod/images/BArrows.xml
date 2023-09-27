@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BArrows.png"><SubTexture name="arrowLEFT0000" x="0" y="0" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="arrowDOWN0000" x="161" y="0" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="arrowUP0000" x="322" y="0" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="arrowRIGHT0000" x="483" y="0" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="purple0000" x="0" y="157" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="purple hold piece0000"x="161" y="157" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="purple hold end0000" x="215" y="157" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="blue0000" x="269" y="157" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="blue hold piece0000" x="0" y="314" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="blue hold end0000" x="54" y="314" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="green0000" x="108" y="314" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="green hold piece0000" x="269" y="314" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="green hold end0000" x="0" y="471" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="red0000" x="54" y="471" width="161" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157" />
+<SubTexture name="red hold piece0000" x="215" y="471" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+<SubTexture name="red hold end0000" x="269" y="471" width="54" height="48" frameX="0" frameY="0" frameWidth="54" frameHeight="48" />
+</TextureAtlas>

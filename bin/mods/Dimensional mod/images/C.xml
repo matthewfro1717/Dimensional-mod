@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="C.png"><SubTexture name="Background0000" x="0" y="0" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0001" x="1282" y="0" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0002" x="0" y="890" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0003" x="1282" y="890" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0004" x="0" y="1780" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0005" x="1282" y="1780" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0006" x="0" y="2670" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+<SubTexture name="Background0007" x="1282" y="2670" width="1282" height="890" frameX="0" frameY="0" frameWidth="1282" frameHeight="890" />
+</TextureAtlas>

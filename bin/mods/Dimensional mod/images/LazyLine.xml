@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LazyLine.png"><SubTexture name="LazyLine Background0000" x="0" y="0" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0001" x="1207" y="0" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0002" x="2414" y="0" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0003" x="0" y="830" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0004" x="1207" y="830" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0005" x="2414" y="830" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0006" x="0" y="1660" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0007" x="1207" y="1660" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0008" x="2414" y="1660" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+<SubTexture name="LazyLine Background0009" x="0" y="2490" width="1207" height="830" frameX="0" frameY="0" frameWidth="1207" frameHeight="830" />
+</TextureAtlas>

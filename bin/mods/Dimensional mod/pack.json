@@ -1,0 +1,7 @@
+{
+	"name": "Dimensional mod",
+	"description": "Dimensional mod",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
